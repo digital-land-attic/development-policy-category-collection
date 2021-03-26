@@ -1,108 +1,108 @@
-resource,development-policy-category,end-date,entry-date,name,start-date,slug
-8df75b0c4d901a4a2a61a96b58681f919af1644d5e6d1b7108f3cf7a9ca7c079,other-commercial-development,2020-10-03,2020-07-13,other commercial development,2020-07-13,/development-policy-category/other-commercial-development
-8df75b0c4d901a4a2a61a96b58681f919af1644d5e6d1b7108f3cf7a9ca7c079,telecommunications,2020-10-03,2020-07-13,telecommunications,2020-07-13,/development-policy-category/telecommunications
-8df75b0c4d901a4a2a61a96b58681f919af1644d5e6d1b7108f3cf7a9ca7c079,coastal-change-management,2020-10-03,2020-07-13,coastal change management,2020-07-13,/development-policy-category/coastal-change-management
-8df75b0c4d901a4a2a61a96b58681f919af1644d5e6d1b7108f3cf7a9ca7c079,minerals-and-energy,2020-10-03,2020-07-13,provision of minerals and energy,2020-07-13,/development-policy-category/minerals-and-energy
-8df75b0c4d901a4a2a61a96b58681f919af1644d5e6d1b7108f3cf7a9ca7c079,security,2020-10-03,2020-07-13,security,2020-07-13,/development-policy-category/security
-8df75b0c4d901a4a2a61a96b58681f919af1644d5e6d1b7108f3cf7a9ca7c079,accessibility,,2020-10-03,Accessibility,2020-10-03,/development-policy-category/accessibility
-8df75b0c4d901a4a2a61a96b58681f919af1644d5e6d1b7108f3cf7a9ca7c079,advertising,,2020-10-03,Advertising,2020-10-03,/development-policy-category/advertising
-8df75b0c4d901a4a2a61a96b58681f919af1644d5e6d1b7108f3cf7a9ca7c079,affordable-housing,,2020-10-03,Affordable housing,2020-10-03,/development-policy-category/affordable-housing
-8df75b0c4d901a4a2a61a96b58681f919af1644d5e6d1b7108f3cf7a9ca7c079,aggregates,,2020-10-03,Aggregates,2020-10-03,/development-policy-category/aggregates
-8df75b0c4d901a4a2a61a96b58681f919af1644d5e6d1b7108f3cf7a9ca7c079,air-quality,,2020-10-03,Air quality,2020-10-03,/development-policy-category/air-quality
-8df75b0c4d901a4a2a61a96b58681f919af1644d5e6d1b7108f3cf7a9ca7c079,allocated-sites,,2020-10-03,Allocated sites,2020-10-03,/development-policy-category/allocated-sites
-8df75b0c4d901a4a2a61a96b58681f919af1644d5e6d1b7108f3cf7a9ca7c079,allotments,,2020-10-03,Allotments,2020-10-03,/development-policy-category/allotments
-8df75b0c4d901a4a2a61a96b58681f919af1644d5e6d1b7108f3cf7a9ca7c079,archaeology,,2020-10-03,Archaeology,2020-10-03,/development-policy-category/archaeology
-8df75b0c4d901a4a2a61a96b58681f919af1644d5e6d1b7108f3cf7a9ca7c079,area/location-specific-policy,2021-02-04,2020-10-03,Area/location specific policy,2020-10-03,/development-policy-category/area-location-specific-policy
-8df75b0c4d901a4a2a61a96b58681f919af1644d5e6d1b7108f3cf7a9ca7c079,area-specific-policy,,2021-02-04,Area specific policy,2021-02-04,/development-policy-category/area-specific-policy
-8df75b0c4d901a4a2a61a96b58681f919af1644d5e6d1b7108f3cf7a9ca7c079,arts,,2020-10-03,Arts,2020-10-03,/development-policy-category/arts
-8df75b0c4d901a4a2a61a96b58681f919af1644d5e6d1b7108f3cf7a9ca7c079,aviation,,2020-10-03,Aviation,2020-10-03,/development-policy-category/aviation
-8df75b0c4d901a4a2a61a96b58681f919af1644d5e6d1b7108f3cf7a9ca7c079,biodiversity,,2020-10-03,Biodiversity,2020-10-03,/development-policy-category/biodiversity
-8df75b0c4d901a4a2a61a96b58681f919af1644d5e6d1b7108f3cf7a9ca7c079,broadband,,2020-10-03,Broadband,2020-10-03,/development-policy-category/broadband
-8df75b0c4d901a4a2a61a96b58681f919af1644d5e6d1b7108f3cf7a9ca7c079,burial-spaces,,2020-10-03,Burial spaces,2020-10-03,/development-policy-category/burial-spaces
-8df75b0c4d901a4a2a61a96b58681f919af1644d5e6d1b7108f3cf7a9ca7c079,buses,,2020-10-03,Buses,2020-10-03,/development-policy-category/buses
-8df75b0c4d901a4a2a61a96b58681f919af1644d5e6d1b7108f3cf7a9ca7c079,car-parks,,2020-10-03,Car parks,2020-10-03,/development-policy-category/car-parks
-8df75b0c4d901a4a2a61a96b58681f919af1644d5e6d1b7108f3cf7a9ca7c079,climate-change,,2020-10-03,Climate change,2020-10-03,/development-policy-category/climate-change
-8df75b0c4d901a4a2a61a96b58681f919af1644d5e6d1b7108f3cf7a9ca7c079,communications,,2020-10-03,Communications,2020-10-03,/development-policy-category/communications
-8df75b0c4d901a4a2a61a96b58681f919af1644d5e6d1b7108f3cf7a9ca7c079,community-facilities,,2020-07-13,Community facilities,2020-07-13,/development-policy-category/community-facilities
-8df75b0c4d901a4a2a61a96b58681f919af1644d5e6d1b7108f3cf7a9ca7c079,community-infrastructure-levy,,2020-10-03,community infrastructure levy,2020-10-03,/development-policy-category/community-infrastructure-levy
-8df75b0c4d901a4a2a61a96b58681f919af1644d5e6d1b7108f3cf7a9ca7c079,compulsory-purchase-orders,,2020-10-03,Compulsory purchase orders,2020-10-03,/development-policy-category/compulsory-purchase-orders
-8df75b0c4d901a4a2a61a96b58681f919af1644d5e6d1b7108f3cf7a9ca7c079,conservation-natural-environment,2020-10-03,2020-07-13,conservation and enhancement of the natural environment,2020-07-13,/development-policy-category/conservation-natural-environment
-8df75b0c4d901a4a2a61a96b58681f919af1644d5e6d1b7108f3cf7a9ca7c079,conservation-built-environment,2020-10-03,2020-07-13,conservation and enhancement of the built environment,2020-07-13,/development-policy-category/conservation-built-environment
-8df75b0c4d901a4a2a61a96b58681f919af1644d5e6d1b7108f3cf7a9ca7c079,conservation-historic-environment,2020-10-03,2020-07-13,conservation and enhancement of the historic environment,2020-07-13,/development-policy-category/conservation-historic-environment
-8df75b0c4d901a4a2a61a96b58681f919af1644d5e6d1b7108f3cf7a9ca7c079,conservation-area,,2020-10-03,Conservation area,2020-10-03,/development-policy-category/conservation-area
-8df75b0c4d901a4a2a61a96b58681f919af1644d5e6d1b7108f3cf7a9ca7c079,construction,,2020-10-03,Construction,2020-10-03,/development-policy-category/construction
-8df75b0c4d901a4a2a61a96b58681f919af1644d5e6d1b7108f3cf7a9ca7c079,contamination,,2020-10-03,Contamination,2020-10-03,/development-policy-category/contamination
-8df75b0c4d901a4a2a61a96b58681f919af1644d5e6d1b7108f3cf7a9ca7c079,culture,,2020-10-03,Culture,2020-10-03,/development-policy-category/culture
-8df75b0c4d901a4a2a61a96b58681f919af1644d5e6d1b7108f3cf7a9ca7c079,cycling,,2020-10-03,Cycling,2020-10-03,/development-policy-category/cycling
-8df75b0c4d901a4a2a61a96b58681f919af1644d5e6d1b7108f3cf7a9ca7c079,density,,2020-10-03,Density,2020-10-03,/development-policy-category/density
-8df75b0c4d901a4a2a61a96b58681f919af1644d5e6d1b7108f3cf7a9ca7c079,design,,2020-10-03,Design,2020-10-03,/development-policy-category/design
-8df75b0c4d901a4a2a61a96b58681f919af1644d5e6d1b7108f3cf7a9ca7c079,designation,,2020-10-03,Designation,2020-10-03,/development-policy-category/designation
-8df75b0c4d901a4a2a61a96b58681f919af1644d5e6d1b7108f3cf7a9ca7c079,development-management,,2020-10-03,Development Management,2020-10-03,/development-policy-category/development-management
-8df75b0c4d901a4a2a61a96b58681f919af1644d5e6d1b7108f3cf7a9ca7c079,digital-infrastructure,,2020-10-03,Digital infrastructure,2020-10-03,/development-policy-category/digital-infrastructure
-8df75b0c4d901a4a2a61a96b58681f919af1644d5e6d1b7108f3cf7a9ca7c079,ecology,,2020-10-03,Ecology,2020-10-03,/development-policy-category/ecology
-8df75b0c4d901a4a2a61a96b58681f919af1644d5e6d1b7108f3cf7a9ca7c079,economy,,2020-10-03,Economy,2020-10-03,/development-policy-category/economy
-8df75b0c4d901a4a2a61a96b58681f919af1644d5e6d1b7108f3cf7a9ca7c079,education,,2020-10-03,Education,2020-10-03,/development-policy-category/education
-8df75b0c4d901a4a2a61a96b58681f919af1644d5e6d1b7108f3cf7a9ca7c079,employment,,2020-07-13,Employment,2020-07-13,/development-policy-category/employment
-8df75b0c4d901a4a2a61a96b58681f919af1644d5e6d1b7108f3cf7a9ca7c079,energy,,2020-10-03,Energy,2020-10-03,/development-policy-category/energy
-8df75b0c4d901a4a2a61a96b58681f919af1644d5e6d1b7108f3cf7a9ca7c079,enforcement,,2020-10-03,Enforcement,2020-10-03,/development-policy-category/enforcement
-8df75b0c4d901a4a2a61a96b58681f919af1644d5e6d1b7108f3cf7a9ca7c079,engagement,,2020-10-03,Engagement,2020-10-03,/development-policy-category/engagement
-8df75b0c4d901a4a2a61a96b58681f919af1644d5e6d1b7108f3cf7a9ca7c079,equestrian-facilities,,2020-10-03,Equestrian facilities,2020-10-03,/development-policy-category/equestrian-facilities
-8df75b0c4d901a4a2a61a96b58681f919af1644d5e6d1b7108f3cf7a9ca7c079,existing-housing,,2020-10-03,Existing housing,2020-10-03,/development-policy-category/existing-housing
-8df75b0c4d901a4a2a61a96b58681f919af1644d5e6d1b7108f3cf7a9ca7c079,flood-risk,2020-10-03,2020-07-13,flood risk,2020-07-13,/development-policy-category/flood-risk
-8df75b0c4d901a4a2a61a96b58681f919af1644d5e6d1b7108f3cf7a9ca7c079,flooding,,2020-10-03,Flooding,2020-10-03,/development-policy-category/flooding
-8df75b0c4d901a4a2a61a96b58681f919af1644d5e6d1b7108f3cf7a9ca7c079,freight,,2020-10-03,Freight,2020-10-03,/development-policy-category/freight
-8df75b0c4d901a4a2a61a96b58681f919af1644d5e6d1b7108f3cf7a9ca7c079,green-belt,,2020-10-03,Green belt,2020-10-03,/development-policy-category/green-belt
-8df75b0c4d901a4a2a61a96b58681f919af1644d5e6d1b7108f3cf7a9ca7c079,gypsy-and-travellers,,2020-10-03,Gypsy and travellers,2020-10-03,/development-policy-category/gypsy-and-travellers
-8df75b0c4d901a4a2a61a96b58681f919af1644d5e6d1b7108f3cf7a9ca7c079,health,,2020-10-03,Health,2020-10-03,/development-policy-category/health
-8df75b0c4d901a4a2a61a96b58681f919af1644d5e6d1b7108f3cf7a9ca7c079,heritage,,2020-10-03,Heritage,2020-10-03,/development-policy-category/heritage
-8df75b0c4d901a4a2a61a96b58681f919af1644d5e6d1b7108f3cf7a9ca7c079,highways,,2020-10-03,Highways,2020-10-03,/development-policy-category/highways
-8df75b0c4d901a4a2a61a96b58681f919af1644d5e6d1b7108f3cf7a9ca7c079,housing,,2020-07-13,Housing,2020-07-13,/development-policy-category/housing
-8df75b0c4d901a4a2a61a96b58681f919af1644d5e6d1b7108f3cf7a9ca7c079,housing-mix,,2020-10-03,Housing mix,2020-10-03,/development-policy-category/housing-mix
-8df75b0c4d901a4a2a61a96b58681f919af1644d5e6d1b7108f3cf7a9ca7c079,industry,,2020-10-03,Industry,2020-10-03,/development-policy-category/industry
-8df75b0c4d901a4a2a61a96b58681f919af1644d5e6d1b7108f3cf7a9ca7c079,infrastructure,,2020-10-03,Infrastructure,2020-10-03,/development-policy-category/infrastructure
-8df75b0c4d901a4a2a61a96b58681f919af1644d5e6d1b7108f3cf7a9ca7c079,jobs,,2020-10-03,Jobs,2020-10-03,/development-policy-category/jobs
-8df75b0c4d901a4a2a61a96b58681f919af1644d5e6d1b7108f3cf7a9ca7c079,leisure,,2020-07-13,Leisure,2020-07-13,/development-policy-category/leisure
-8df75b0c4d901a4a2a61a96b58681f919af1644d5e6d1b7108f3cf7a9ca7c079,lighting,,2020-10-03,Lighting,2020-10-03,/development-policy-category/lighting
-8df75b0c4d901a4a2a61a96b58681f919af1644d5e6d1b7108f3cf7a9ca7c079,listed-building,,2020-10-03,Listed building,2020-10-03,/development-policy-category/listed-building
-8df75b0c4d901a4a2a61a96b58681f919af1644d5e6d1b7108f3cf7a9ca7c079,local-development-scheme,,2020-10-03,Local development scheme,2020-10-03,/development-policy-category/local-development-scheme
-8df75b0c4d901a4a2a61a96b58681f919af1644d5e6d1b7108f3cf7a9ca7c079,mining,,2020-10-03,Mining,2020-10-03,/development-policy-category/mining
-8df75b0c4d901a4a2a61a96b58681f919af1644d5e6d1b7108f3cf7a9ca7c079,monitoring,,2020-10-03,Monitoring,2020-10-03,/development-policy-category/monitoring
-8df75b0c4d901a4a2a61a96b58681f919af1644d5e6d1b7108f3cf7a9ca7c079,nature,,2020-10-03,Nature,2020-10-03,/development-policy-category/nature
-8df75b0c4d901a4a2a61a96b58681f919af1644d5e6d1b7108f3cf7a9ca7c079,neighbourhood-planning,,2020-10-03,Neighbourhood planning,2020-10-03,/development-policy-category/neighbourhood-planning
-8df75b0c4d901a4a2a61a96b58681f919af1644d5e6d1b7108f3cf7a9ca7c079,night-time-economy,,2020-10-03,Night time economy,2020-10-03,/development-policy-category/night-time-economy
-8df75b0c4d901a4a2a61a96b58681f919af1644d5e6d1b7108f3cf7a9ca7c079,noise,,2020-10-03,Noise,2020-10-03,/development-policy-category/noise
-8df75b0c4d901a4a2a61a96b58681f919af1644d5e6d1b7108f3cf7a9ca7c079,office,,2020-10-03,Office,2020-10-03,/development-policy-category/office
-8df75b0c4d901a4a2a61a96b58681f919af1644d5e6d1b7108f3cf7a9ca7c079,open-space,,2020-10-03,Open space,2020-10-03,/development-policy-category/open-space
-8df75b0c4d901a4a2a61a96b58681f919af1644d5e6d1b7108f3cf7a9ca7c079,ownership,,2020-10-03,Ownership,2020-10-03,/development-policy-category/ownership
-8df75b0c4d901a4a2a61a96b58681f919af1644d5e6d1b7108f3cf7a9ca7c079,parking,,2020-10-03,Parking,2020-10-03,/development-policy-category/parking
-8df75b0c4d901a4a2a61a96b58681f919af1644d5e6d1b7108f3cf7a9ca7c079,play-space,,2020-10-03,Play space,2020-10-03,/development-policy-category/play-space
-8df75b0c4d901a4a2a61a96b58681f919af1644d5e6d1b7108f3cf7a9ca7c079,private-hire,,2020-10-03,Private hire,2020-10-03,/development-policy-category/private-hire
-8df75b0c4d901a4a2a61a96b58681f919af1644d5e6d1b7108f3cf7a9ca7c079,professional-and-financial-services,,2020-10-03,Professional and financial services,2020-10-03,/development-policy-category/professional-and-financial-services
-8df75b0c4d901a4a2a61a96b58681f919af1644d5e6d1b7108f3cf7a9ca7c079,public-transport,,2020-10-03,Public transport,2020-10-03,/development-policy-category/public-transport
-8df75b0c4d901a4a2a61a96b58681f919af1644d5e6d1b7108f3cf7a9ca7c079,rail,,2020-10-03,Rail,2020-10-03,/development-policy-category/rail
-8df75b0c4d901a4a2a61a96b58681f919af1644d5e6d1b7108f3cf7a9ca7c079,regeneration,,2020-10-03,Regeneration,2020-10-03,/development-policy-category/regeneration
-8df75b0c4d901a4a2a61a96b58681f919af1644d5e6d1b7108f3cf7a9ca7c079,rent,,2020-10-03,Rent,2020-10-03,/development-policy-category/rent
-8df75b0c4d901a4a2a61a96b58681f919af1644d5e6d1b7108f3cf7a9ca7c079,residential-alterations,,2020-10-03,Residential alterations,2020-10-03,/development-policy-category/residential-alterations
-8df75b0c4d901a4a2a61a96b58681f919af1644d5e6d1b7108f3cf7a9ca7c079,retail,,2020-07-13,Retail,2020-07-13,/development-policy-category/retail
-8df75b0c4d901a4a2a61a96b58681f919af1644d5e6d1b7108f3cf7a9ca7c079,retail-policy,,2020-10-03,Retail policy,2020-10-03,/development-policy-category/retail-policy
-8df75b0c4d901a4a2a61a96b58681f919af1644d5e6d1b7108f3cf7a9ca7c079,schools,,2020-10-03,Schools,2020-10-03,/development-policy-category/schools
-8df75b0c4d901a4a2a61a96b58681f919af1644d5e6d1b7108f3cf7a9ca7c079,section-106,,2020-10-03,Section 106,2020-10-03,/development-policy-category/section-106
-8df75b0c4d901a4a2a61a96b58681f919af1644d5e6d1b7108f3cf7a9ca7c079,servicing,,2020-10-03,Servicing,2020-10-03,/development-policy-category/servicing
-8df75b0c4d901a4a2a61a96b58681f919af1644d5e6d1b7108f3cf7a9ca7c079,specialised-housing,,2020-10-03,Specialised housing,2020-10-03,/development-policy-category/specialised-housing
-8df75b0c4d901a4a2a61a96b58681f919af1644d5e6d1b7108f3cf7a9ca7c079,strategic-policy,,2020-10-03,Strategic policy,2020-10-03,/development-policy-category/strategic-policy
-8df75b0c4d901a4a2a61a96b58681f919af1644d5e6d1b7108f3cf7a9ca7c079,street-markets,,2020-10-03,Street markets,2020-10-03,/development-policy-category/street-markets
-8df75b0c4d901a4a2a61a96b58681f919af1644d5e6d1b7108f3cf7a9ca7c079,tourism,,2020-10-03,Tourism,2020-10-03,/development-policy-category/tourism
-8df75b0c4d901a4a2a61a96b58681f919af1644d5e6d1b7108f3cf7a9ca7c079,town-centres,,2020-10-03,Town centres,2020-10-03,/development-policy-category/town-centres
-8df75b0c4d901a4a2a61a96b58681f919af1644d5e6d1b7108f3cf7a9ca7c079,tram,,2020-10-03,Tram,2020-10-03,/development-policy-category/tram
-8df75b0c4d901a4a2a61a96b58681f919af1644d5e6d1b7108f3cf7a9ca7c079,transport,,2020-07-13,Transport,2020-07-13,/development-policy-category/transport
-8df75b0c4d901a4a2a61a96b58681f919af1644d5e6d1b7108f3cf7a9ca7c079,trees,,2020-10-03,Trees,2020-10-03,/development-policy-category/trees
-8df75b0c4d901a4a2a61a96b58681f919af1644d5e6d1b7108f3cf7a9ca7c079,use-class,,2020-10-03,Use class,2020-10-03,/development-policy-category/use-class
-8df75b0c4d901a4a2a61a96b58681f919af1644d5e6d1b7108f3cf7a9ca7c079,views,,2020-10-03,Views,2020-10-03,/development-policy-category/views
-8df75b0c4d901a4a2a61a96b58681f919af1644d5e6d1b7108f3cf7a9ca7c079,walking,,2020-10-03,Walking,2020-10-03,/development-policy-category/walking
-8df75b0c4d901a4a2a61a96b58681f919af1644d5e6d1b7108f3cf7a9ca7c079,waste-management,2020-10-03,2020-07-13,waste management,2020-07-13,/development-policy-category/waste-management
-8df75b0c4d901a4a2a61a96b58681f919af1644d5e6d1b7108f3cf7a9ca7c079,waste,,2020-10-03,Waste,2020-10-03,/development-policy-category/waste
-8df75b0c4d901a4a2a61a96b58681f919af1644d5e6d1b7108f3cf7a9ca7c079,water-supply,2020-10-03,2020-07-13,water supply,2020-07-13,/development-policy-category/water-supply
-8df75b0c4d901a4a2a61a96b58681f919af1644d5e6d1b7108f3cf7a9ca7c079,wastewater,2020-10-03,2020-07-13,wastewater,2020-07-13,/development-policy-category/wastewater
-8df75b0c4d901a4a2a61a96b58681f919af1644d5e6d1b7108f3cf7a9ca7c079,water,,2020-10-03,Water,2020-10-03,/development-policy-category/water
-8df75b0c4d901a4a2a61a96b58681f919af1644d5e6d1b7108f3cf7a9ca7c079,waterways,,2020-10-03,Waterways,2020-10-03,/development-policy-category/waterways
-8df75b0c4d901a4a2a61a96b58681f919af1644d5e6d1b7108f3cf7a9ca7c079,world-heritage-sites,,2020-10-03,World heritage sites,2020-10-03,/development-policy-category/world-heritage-sites
+development-policy-category,end-date,entry-date,name,start-date,slug
+accessibility,,2020-10-03,Accessibility,2020-10-03,/development-policy-category/accessibility
+advertising,,2020-10-03,Advertising,2020-10-03,/development-policy-category/advertising
+affordable-housing,,2020-10-03,Affordable housing,2020-10-03,/development-policy-category/affordable-housing
+aggregates,,2020-10-03,Aggregates,2020-10-03,/development-policy-category/aggregates
+air-quality,,2020-10-03,Air quality,2020-10-03,/development-policy-category/air-quality
+allocated-sites,,2020-10-03,Allocated sites,2020-10-03,/development-policy-category/allocated-sites
+allotments,,2020-10-03,Allotments,2020-10-03,/development-policy-category/allotments
+archaeology,,2020-10-03,Archaeology,2020-10-03,/development-policy-category/archaeology
+area/location-specific-policy,2021-02-04,2020-10-03,Area/location specific policy,2020-10-03,/development-policy-category/area-location-specific-policy
+area-specific-policy,,2021-02-04,Area specific policy,2021-02-04,/development-policy-category/area-specific-policy
+arts,,2020-10-03,Arts,2020-10-03,/development-policy-category/arts
+aviation,,2020-10-03,Aviation,2020-10-03,/development-policy-category/aviation
+biodiversity,,2020-10-03,Biodiversity,2020-10-03,/development-policy-category/biodiversity
+broadband,,2020-10-03,Broadband,2020-10-03,/development-policy-category/broadband
+burial-spaces,,2020-10-03,Burial spaces,2020-10-03,/development-policy-category/burial-spaces
+buses,,2020-10-03,Buses,2020-10-03,/development-policy-category/buses
+car-parks,,2020-10-03,Car parks,2020-10-03,/development-policy-category/car-parks
+climate-change,,2020-10-03,Climate change,2020-10-03,/development-policy-category/climate-change
+coastal-change-management,2020-10-03,2020-07-13,coastal change management,2020-07-13,/development-policy-category/coastal-change-management
+communications,,2020-10-03,Communications,2020-10-03,/development-policy-category/communications
+community-facilities,,2020-07-13,Community facilities,2020-07-13,/development-policy-category/community-facilities
+community-infrastructure-levy,,2020-10-03,community infrastructure levy,2020-10-03,/development-policy-category/community-infrastructure-levy
+compulsory-purchase-orders,,2020-10-03,Compulsory purchase orders,2020-10-03,/development-policy-category/compulsory-purchase-orders
+conservation-area,,2020-10-03,Conservation area,2020-10-03,/development-policy-category/conservation-area
+conservation-built-environment,2020-10-03,2020-07-13,conservation and enhancement of the built environment,2020-07-13,/development-policy-category/conservation-built-environment
+conservation-historic-environment,2020-10-03,2020-07-13,conservation and enhancement of the historic environment,2020-07-13,/development-policy-category/conservation-historic-environment
+conservation-natural-environment,2020-10-03,2020-07-13,conservation and enhancement of the natural environment,2020-07-13,/development-policy-category/conservation-natural-environment
+construction,,2020-10-03,Construction,2020-10-03,/development-policy-category/construction
+contamination,,2020-10-03,Contamination,2020-10-03,/development-policy-category/contamination
+culture,,2020-10-03,Culture,2020-10-03,/development-policy-category/culture
+cycling,,2020-10-03,Cycling,2020-10-03,/development-policy-category/cycling
+density,,2020-10-03,Density,2020-10-03,/development-policy-category/density
+design,,2020-10-03,Design,2020-10-03,/development-policy-category/design
+designation,,2020-10-03,Designation,2020-10-03,/development-policy-category/designation
+development-management,,2020-10-03,Development Management,2020-10-03,/development-policy-category/development-management
+digital-infrastructure,,2020-10-03,Digital infrastructure,2020-10-03,/development-policy-category/digital-infrastructure
+ecology,,2020-10-03,Ecology,2020-10-03,/development-policy-category/ecology
+economy,,2020-10-03,Economy,2020-10-03,/development-policy-category/economy
+education,,2020-10-03,Education,2020-10-03,/development-policy-category/education
+employment,,2020-07-13,Employment,2020-07-13,/development-policy-category/employment
+energy,,2020-10-03,Energy,2020-10-03,/development-policy-category/energy
+enforcement,,2020-10-03,Enforcement,2020-10-03,/development-policy-category/enforcement
+engagement,,2020-10-03,Engagement,2020-10-03,/development-policy-category/engagement
+equestrian-facilities,,2020-10-03,Equestrian facilities,2020-10-03,/development-policy-category/equestrian-facilities
+existing-housing,,2020-10-03,Existing housing,2020-10-03,/development-policy-category/existing-housing
+flood-risk,2020-10-03,2020-07-13,flood risk,2020-07-13,/development-policy-category/flood-risk
+flooding,,2020-10-03,Flooding,2020-10-03,/development-policy-category/flooding
+freight,,2020-10-03,Freight,2020-10-03,/development-policy-category/freight
+green-belt,,2020-10-03,Green belt,2020-10-03,/development-policy-category/green-belt
+gypsy-and-travellers,,2020-10-03,Gypsy and travellers,2020-10-03,/development-policy-category/gypsy-and-travellers
+health,,2020-10-03,Health,2020-10-03,/development-policy-category/health
+heritage,,2020-10-03,Heritage,2020-10-03,/development-policy-category/heritage
+highways,,2020-10-03,Highways,2020-10-03,/development-policy-category/highways
+housing,,2020-07-13,Housing,2020-07-13,/development-policy-category/housing
+housing-mix,,2020-10-03,Housing mix,2020-10-03,/development-policy-category/housing-mix
+industry,,2020-10-03,Industry,2020-10-03,/development-policy-category/industry
+infrastructure,,2020-10-03,Infrastructure,2020-10-03,/development-policy-category/infrastructure
+jobs,,2020-10-03,Jobs,2020-10-03,/development-policy-category/jobs
+leisure,,2020-07-13,Leisure,2020-07-13,/development-policy-category/leisure
+lighting,,2020-10-03,Lighting,2020-10-03,/development-policy-category/lighting
+listed-building,,2020-10-03,Listed building,2020-10-03,/development-policy-category/listed-building
+local-development-scheme,,2020-10-03,Local development scheme,2020-10-03,/development-policy-category/local-development-scheme
+minerals-and-energy,2020-10-03,2020-07-13,provision of minerals and energy,2020-07-13,/development-policy-category/minerals-and-energy
+mining,,2020-10-03,Mining,2020-10-03,/development-policy-category/mining
+monitoring,,2020-10-03,Monitoring,2020-10-03,/development-policy-category/monitoring
+nature,,2020-10-03,Nature,2020-10-03,/development-policy-category/nature
+neighbourhood-planning,,2020-10-03,Neighbourhood planning,2020-10-03,/development-policy-category/neighbourhood-planning
+night-time-economy,,2020-10-03,Night time economy,2020-10-03,/development-policy-category/night-time-economy
+noise,,2020-10-03,Noise,2020-10-03,/development-policy-category/noise
+office,,2020-10-03,Office,2020-10-03,/development-policy-category/office
+open-space,,2020-10-03,Open space,2020-10-03,/development-policy-category/open-space
+other-commercial-development,2020-10-03,2020-07-13,other commercial development,2020-07-13,/development-policy-category/other-commercial-development
+ownership,,2020-10-03,Ownership,2020-10-03,/development-policy-category/ownership
+parking,,2020-10-03,Parking,2020-10-03,/development-policy-category/parking
+play-space,,2020-10-03,Play space,2020-10-03,/development-policy-category/play-space
+private-hire,,2020-10-03,Private hire,2020-10-03,/development-policy-category/private-hire
+professional-and-financial-services,,2020-10-03,Professional and financial services,2020-10-03,/development-policy-category/professional-and-financial-services
+public-transport,,2020-10-03,Public transport,2020-10-03,/development-policy-category/public-transport
+rail,,2020-10-03,Rail,2020-10-03,/development-policy-category/rail
+regeneration,,2020-10-03,Regeneration,2020-10-03,/development-policy-category/regeneration
+rent,,2020-10-03,Rent,2020-10-03,/development-policy-category/rent
+residential-alterations,,2020-10-03,Residential alterations,2020-10-03,/development-policy-category/residential-alterations
+retail,,2020-07-13,Retail,2020-07-13,/development-policy-category/retail
+retail-policy,,2020-10-03,Retail policy,2020-10-03,/development-policy-category/retail-policy
+schools,,2020-10-03,Schools,2020-10-03,/development-policy-category/schools
+section-106,,2020-10-03,Section 106,2020-10-03,/development-policy-category/section-106
+security,2020-10-03,2020-07-13,security,2020-07-13,/development-policy-category/security
+servicing,,2020-10-03,Servicing,2020-10-03,/development-policy-category/servicing
+specialised-housing,,2020-10-03,Specialised housing,2020-10-03,/development-policy-category/specialised-housing
+strategic-policy,,2020-10-03,Strategic policy,2020-10-03,/development-policy-category/strategic-policy
+street-markets,,2020-10-03,Street markets,2020-10-03,/development-policy-category/street-markets
+telecommunications,2020-10-03,2020-07-13,telecommunications,2020-07-13,/development-policy-category/telecommunications
+tourism,,2020-10-03,Tourism,2020-10-03,/development-policy-category/tourism
+town-centres,,2020-10-03,Town centres,2020-10-03,/development-policy-category/town-centres
+tram,,2020-10-03,Tram,2020-10-03,/development-policy-category/tram
+transport,,2020-07-13,Transport,2020-07-13,/development-policy-category/transport
+trees,,2020-10-03,Trees,2020-10-03,/development-policy-category/trees
+use-class,,2020-10-03,Use class,2020-10-03,/development-policy-category/use-class
+views,,2020-10-03,Views,2020-10-03,/development-policy-category/views
+walking,,2020-10-03,Walking,2020-10-03,/development-policy-category/walking
+waste,,2020-10-03,Waste,2020-10-03,/development-policy-category/waste
+waste-management,2020-10-03,2020-07-13,waste management,2020-07-13,/development-policy-category/waste-management
+wastewater,2020-10-03,2020-07-13,wastewater,2020-07-13,/development-policy-category/wastewater
+water,,2020-10-03,Water,2020-10-03,/development-policy-category/water
+water-supply,2020-10-03,2020-07-13,water supply,2020-07-13,/development-policy-category/water-supply
+waterways,,2020-10-03,Waterways,2020-10-03,/development-policy-category/waterways
+world-heritage-sites,,2020-10-03,World heritage sites,2020-10-03,/development-policy-category/world-heritage-sites
