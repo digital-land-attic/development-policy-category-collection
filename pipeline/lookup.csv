@@ -1,4 +1,4 @@
-pipeline,resource,organisation,value,entity
+prefix,resource,organisation,reference,entity
 development-policy-category,,,other-commercial-development,5400000
 development-policy-category,,,telecommunications,5400001
 development-policy-category,,,coastal-change-management,5400002
